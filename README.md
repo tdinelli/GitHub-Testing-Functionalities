@@ -1,1 +1,1 @@
-# GitHub-Testing-Functionality
+# GitHub-Testing-Functionalities
